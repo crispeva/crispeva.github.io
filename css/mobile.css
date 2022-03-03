@@ -1,0 +1,44 @@
+/* Navbar */
+#navbar ul, 
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+}
+
+
+/* Portfolio */
+#portfolio .portfolio-nav {
+  display: none;
+}
+
+
+.card {
+  float: left;
+  width: 90%;
+  height: 90%;
+ 
+  margin-left: 5%;
+}
+
+
+
+/* Single Project */
+.portfolio-nav {
+  float: none;
+  width: 100%;
+}
+
+
+/* Footer */
+#main-footer {
+  text-align: center;
+}
+
+#main-footer p,
+#main-footer ul,
+#main-footer ul li {
+  float: none;
+}
